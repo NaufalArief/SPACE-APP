@@ -99,6 +99,16 @@
                     </a>
                 </li>
                 <li class="nav-item">
+                    <a href="https://youtube.com/@space.tec24?si=J79mJn0QKMsmMZ3e" class="nav-link youtube-link"
+                        target="_blank" rel="noopener noreferrer">
+                        <svg class="nav-icon" viewBox="0 0 24 24">
+                            <path
+                                d="M23.498 6.186a2.95 2.95 0 00-2.078-2.08C19.538 3.6 12 3.6 12 3.6s-7.538 0-9.42.507a2.95 2.95 0 00-2.08 2.08A30.14 30.14 0 000 12a30.14 30.14 0 00.5 5.814 2.95 2.95 0 002.08 2.08c1.882.506 9.42.506 9.42.506s7.538 0 9.42-.506a2.95 2.95 0 002.08-2.08A30.14 30.14 0 0024 12a30.14 30.14 0 00-.502-5.814zM9.6 15.6V8.4L15.6 12l-6 3.6z" />
+                        </svg>
+                        <span>YouTube</span>
+                    </a>
+                </li>
+                <li class="nav-item">
                     <a href="https://open.spotify.com/playlist/3vywmKRR0aHgPqVhIijXwB?si=IbRFt077RZmTPUfaIQmtFg&pi=ghlvEfOzQY--w"
                         class="nav-link instagram-link" target="_blank" rel="noopener noreferrer">
                         <svg class="nav-icon" viewBox="0 0 24 24">
@@ -108,6 +118,7 @@
                         <span>Spotify</span>
                     </a>
                 </li>
+
             </ul>
 
             {{-- Tombol Logout hanya akan muncul untuk pengguna yang sudah login --}}
